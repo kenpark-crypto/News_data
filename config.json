@@ -1,6 +1,5 @@
 {
     "rss_feeds": [
-        "https://news.google.com/rss/search?q=IT+tech+korea&hl=ko&gl=KR&ceid=KR:ko",
         "https://www.wired.com/feed/rss",
         "https://techcrunch.com/feed/",
         "https://yozm.wishket.com/magazine/feed/"
